@@ -56,5 +56,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+<a href="https://github.com/KarusDeArmas/karusdearmas.github.io"></a>
 - Detection Lab
 - SOC Automation Project
